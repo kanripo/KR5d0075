@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 02:03:10.339969
+#+TITLE: 宗玄先生玄綱論
+#+PROPERTY: DZID  DZ1052
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，23—673 一卷 太玄部
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
